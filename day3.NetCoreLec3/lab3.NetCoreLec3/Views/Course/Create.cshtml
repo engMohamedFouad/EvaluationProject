@@ -1,0 +1,43 @@
+﻿@model lab3.NetCoreLec3.Models.Course
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<div class="container mt-5">
+    <h4 class="text-center">create new Course </h4>
+<div class="row justify-content-center">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="CID" class="control-label"></label>
+                <input asp-for="CID" class="form-control" />
+                <span asp-validation-for="CID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CourseName" class="control-label"></label>
+                <input asp-for="CourseName" class="form-control" />
+                <span asp-validation-for="CourseName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LecHours" class="control-label"></label>
+                <input asp-for="LecHours" class="form-control" />
+                <span asp-validation-for="LecHours" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LabHours" class="control-label"></label>
+                <input asp-for="LabHours" class="form-control" />
+                <span asp-validation-for="LabHours" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div class="text-center">
+    <a asp-action="Index" class="btn btn-danger">Back to List</a>
+</div>
+</div>

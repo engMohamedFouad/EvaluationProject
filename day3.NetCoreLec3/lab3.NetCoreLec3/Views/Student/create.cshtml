@@ -1,0 +1,27 @@
+﻿@model Student
+
+@{
+    ViewBag.Title= "Student Create";
+}
+<div class="container mt-5">
+    <h4 class="text-center">create new Student </h4>
+<div class="row justify-content-center">
+    
+    <div class="col-md-4 text-center">
+        <form asp-action="create" method="post" enctype="multipart/form-data">
+            <partial name="_CreateUpdate" />
+            <br />
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+    
+<div class="text-center">
+    <br />
+    <a asp-action="Index" class="btn btn-success w-auto">Back to List</a>
+</div>
+</div>
+
+</div>
+

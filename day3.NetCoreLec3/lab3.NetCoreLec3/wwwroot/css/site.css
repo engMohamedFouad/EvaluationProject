@@ -1,0 +1,38 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+.imagesize{
+    width:100px;
+    height:70px;
+}
+.cardimg {
+    width: 500px;
+    height: 300px;
+}
+.cardsize {
+    width: 502px;
+}
+.green{
+    background-color:#00ff90;
+}
+.container{
+    padding:0px;
+}
+.field-validation-error{
+    color:red;
+}

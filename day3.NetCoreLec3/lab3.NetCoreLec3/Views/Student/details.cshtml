@@ -1,0 +1,26 @@
+﻿@model Student
+@{
+    ViewBag.Title = "Student Details";
+}
+
+    <section class=" mt-5">
+        <div class="card container cardsize text-center">
+            <div class="card-img">
+               <img class="cardimg" src="~/image/@Model.imagepath" />
+            </div>
+            <div class="card-body text-center green">
+                <div>your Name is: @Model.name</div>
+                <div>your age is: @Model.age</div>
+            </div>
+        </div>
+        <br />
+        <div class="text-center">
+        <div>
+            <a asp-action="saveimage"asp-controller="Student"asp-route-id="@Model.id" class="btn btn-primary w-auto">save image</a>
+        </div>
+        <br />
+         <div>
+        <a asp-action="Index"asp-controller="Student"class="btn btn-danger w-auto">Back to List</a>
+          </div>
+        </div>
+    </section>

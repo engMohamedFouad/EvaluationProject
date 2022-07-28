@@ -1,0 +1,33 @@
+﻿@model lab3.NetCoreLec3.Models.Course
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<div class="container mt-5">
+    <h4 class="text-center">Course Details </h4>
+<dl class="row justify-content-center">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.CourseName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.CourseName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.LecHours)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.LecHours)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.LabHours)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.LabHours)
+        </dd>
+    </dl>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.CID"class="btn btn-success w-auto">Edit</a> |
+    <a asp-action="Index" class="btn btn-danger w-auto">Back to List</a>
+</div>
+</div>

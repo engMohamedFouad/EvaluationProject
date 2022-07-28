@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab3.NetCoreLec3", "lab3.NetCoreLec3\lab3.NetCoreLec3.csproj", "{896FAE15-E0AA-47C3-9D22-795A1C208A2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{896FAE15-E0AA-47C3-9D22-795A1C208A2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{896FAE15-E0AA-47C3-9D22-795A1C208A2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{896FAE15-E0AA-47C3-9D22-795A1C208A2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{896FAE15-E0AA-47C3-9D22-795A1C208A2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95543D39-EC8D-4DB4-AC59-A2C731F77573}
+	EndGlobalSection
+EndGlobal

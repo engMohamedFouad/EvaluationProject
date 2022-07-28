@@ -1,0 +1,31 @@
+﻿@model lab3.NetCoreLec3.Models.Student
+
+@{
+    ViewBag.Title = "Student updates";
+}
+
+
+
+<div class="container mt-5">
+    <h4 class="text-center">update Student</h4>
+<div class="row justify-content-center">
+    <div class="col-md-4">
+        <form asp-action="update" method="post" enctype="multipart/form-data">
+            <div class="form-group">
+                @*معايا id عشان محتاج قيمة ال*@
+                <input asp-for="id" class="form-control" type="hidden"/>
+            </div>
+        <partial name="_CreateUpdate" />
+            <br />
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+    <br />
+<div class="text-center">
+    <a asp-action="Index" class="btn btn-success w-auto">Back to List</a>
+</div>
+</div>
+
+</div>

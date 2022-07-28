@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.css" />
+    <link rel="stylesheet"href="/css/site.css" />
+</head>
+<body>
+    <nav class="navbar navbar-expand-sm navbar-toggleable-sm ">
+            <div class="container navbar-light bg-white border-bottom box-shadow mb-3">
+                <a class="navbar-brand" asp-controller="Home" asp-action="Index">lab3.NetCoreLec3</a>
+               
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-dark"  asp-controller="Student" asp-action="Index">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-controller="Department" asp-action="Index">Department</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-controller="Course" asp-action="Index">Courses</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    <div>
+        @RenderBody()
+    </div>
+    @*بيخلي عند الصفحة الفالديشن يشاغل  client side عشان يشغل ال*@
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+    <script src="~/lib/jquery-validation/dist/jquery.validate.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"></script>
+</body>
+</html>

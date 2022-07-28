@@ -1,0 +1,48 @@
+﻿@model IEnumerable<lab3.NetCoreLec3.Models.Course>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="container mt-5">
+    <h4 class="text-center">create new Course </h4>
+<p>
+    <a asp-action="Create" class="btn btn-primary">Create New</a>
+</p>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CourseName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LecHours)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LabHours)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CourseName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LecHours)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LabHours)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.CID" class="btn btn-info">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.CID" class="btn btn-success">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.CID"class="btn btn-danger">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+</div>
