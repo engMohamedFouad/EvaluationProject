@@ -1,0 +1,60 @@
+﻿@model DashboardMessage.App_Data.Message
+
+@{
+    ViewBag.Title = "SendMessage";
+}
+
+<div>
+    @using (Html.BeginForm("SendMessage", "Home", FormMethod.Post))
+    {
+        <div class="container" style="position:absolute;top:100px;">
+            <table>
+
+                <tr>
+                    <td><label style="font-size:large;">Content To</label></td>
+                    <td><h4>@ViewBag.d.Name </h4></td>
+                </tr>
+
+                <tr>
+                    <td><label style="font-size:large;">From :</label></td>
+                    <td><h4>@ViewBag.me.Name </h4></td>
+                </tr>
+                <tr style="display:none;">
+                    <td><input type="text" value="@ViewBag.me.Name" name="Title" /></td>
+                </tr>
+                <tr>
+                    <td><label style="font-size:large;">Data</label></td>
+                    <td>
+                        <div class="form-group">
+                            @Html.EditorFor(model => model.Date, new { htmlAttributes = new { @class = "form-control", style = "width:400px;" } })
+                            @Html.ValidationMessageFor(model => model.Date, "", new { @class = "text-danger" })
+                        </div>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td><label style="font-size:large;">Message Content</label></td>
+                    <td>
+                        <div class="form-group">
+                            @Html.TextAreaFor(model => model.Message1, new { @class = "form-control", style = "width:400px;height:100px;" })
+                            @Html.ValidationMessageFor(model => model.Message1, "", new { @class = "text-danger" })
+                        </div>
+                    </td>
+                </tr>
+
+                <tr style="display:none;">
+                    <td><input type="text" value="@ViewBag.d.Uid" name="userid"/></td>
+                </tr>
+
+                <tr>
+                    <td>
+                        <div class="form-group" style="position:absolute;width:400px;">
+                            <input style="font-size:large;" class="btn btn-success" type="submit" value="Send Message"  />
+                            @Html.ActionLink("Back","AllList","Home",new { @class= "btn btn-success" })
+                        </div>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    }
+</div>

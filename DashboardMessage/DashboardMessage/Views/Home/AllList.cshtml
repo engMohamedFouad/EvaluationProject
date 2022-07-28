@@ -1,0 +1,49 @@
+﻿@model IEnumerable<DashboardMessage.App_Data.User>
+@{
+    ViewBag.Title = "AllList";
+}
+
+<style>
+    td {
+        font-size: large;
+        height: 80px;
+    }
+    img {
+        border-radius: 50%;
+    }
+</style>
+<div class="container">
+    <h2>List of Users</h2>
+    <div class="pull-right">
+        @Html.ActionLink("my Message","MyMessage","Home", new { id = @ViewBag.determineduser.Uid }, null):@ViewBag.numberOfMessage
+        @Html.ActionLink("Logout", "Login", "Home",new { @class="btn btn-success"})
+    </div>
+    <div>
+        <table class="table-striped">
+                @foreach (var i in @Model)
+                {
+                    if (i.Name == @ViewBag.determineduser.Name.ToString())
+                    { 
+                     <tr>
+                         <td style="position:absolute;top:50px;right:80px;">
+                         <img src="@Url.Content(@i.image)" alt="Jane" style="width:132px;height:80px;"title="@i.Name">
+                     </td>
+                     </tr>
+                <tr style="display:none;">
+                    <td>@i.Name</td>
+                    <td>@Html.ActionLink("Message","SendMessage","Home")</td>
+                </tr>
+                    }
+                    else
+                    {
+                        <tr>
+                            <td><img src="@Url.Content(@i.image)" alt="Jane" style="width:80px;height:40px;"></td>
+                            <td id="t">@Html.ActionLink(@i.Name,"Details","Home",new {id=@i.Uid },null)</td>
+                            <td style="width:500px;"></td>
+                            <td style="background-image:url('../../image/my message.PNG'); background-size:80px; font-size:13px;padding:8px;"width="80px;" >@Html.ActionLink("Message", "SendMessage", "Home", new { id=@i.Uid,name= @ViewBag.determineduser.Name },null)</td>
+                        </tr>
+                    }
+                }
+        </table>
+    </div>
+</div>

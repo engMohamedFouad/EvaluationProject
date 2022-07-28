@@ -1,0 +1,35 @@
+﻿@model  IEnumerable<DashboardMessage.App_Data.Message>
+
+@{
+    ViewBag.Title = "MyMessage";
+}
+<div class="container">
+    <h2>My Messages</h2>
+
+    
+    @foreach (var i in @Model)
+    {
+        using (Html.BeginForm("MyMessage", "Home", FormMethod.Post))
+        {
+                <h5>this message from :@i.Title </h5>
+                <div style="display:none;">
+                    <input type="text" value="@i.Title" name="towho" />
+                </div>
+
+                    <h4>Message  is :<p style="color:red">@i.Message1</p></h4>
+                    <h4>my Reply is :<p style="color:red"> @i.Reply</p></h4>
+                <br />
+
+                <div style="display:none;">
+                    <input type="text" value="@i.MID" name="id" />
+                </div>
+            if(@i.Reply==null)
+            { 
+                @Html.TextArea("Reply")
+
+            <input id="Submit1" type="submit" value="Reply" />
+            }
+                <hr />
+        }
+    }
+            </div>
