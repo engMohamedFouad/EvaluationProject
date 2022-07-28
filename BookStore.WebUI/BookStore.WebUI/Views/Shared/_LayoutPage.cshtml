@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/Site.css" rel="stylesheet" />
+    <link href="~/Content/StyleSheet.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+        <a class="navbar-brand" href="#">Bookstore</a>
+        @Html.Action("Summary", "Cart")
+    </div>
+        <div class="row panel">
+            <div id="specification" class="col-xs-3">
+                @Html.Action("Menu", "Nav")
+            </div>
+            <div class="col-xs-8">
+                @RenderBody()
+            </div>
+        </div>
+</body>
+</html>

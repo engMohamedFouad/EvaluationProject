@@ -1,0 +1,42 @@
+C:\Users\pc_magic\Documents\Visual Studio\Projects\BookStore.WebUI\BookStore.UnitTests\bin\Debug\BookStore.UnitTests.dll
+C:\Users\pc_magic\Documents\Visual Studio\Projects\BookStore.WebUI\BookStore.UnitTests\bin\Debug\BookStore.UnitTests.pdb
+C:\Users\pc_magic\Documents\Visual Studio\Projects\BookStore.WebUI\BookStore.UnitTests\bin\Debug\BookStore.Domain.dll
+C:\Users\pc_magic\Documents\Visual Studio\Projects\BookStore.WebUI\BookStore.UnitTests\bin\Debug\BookStore.WebUI.dll
+C:\Users\pc_magic\Documents\Visual Studio\Projects\BookStore.WebUI\BookStore.UnitTests\bin\Debug\EntityFramework.dll
+C:\Users\pc_magic\Documents\Visual Studio\Projects\BookStore.WebUI\BookStore.UnitTests\bin\Debug\System.Web.Mvc.dll
+C:\Users\pc_magic\Documents\Visual Studio\Projects\BookStore.WebUI\BookStore.UnitTests\bin\Debug\System.Web.Razor.dll
+C:\Users\pc_magic\Documents\Visual Studio\Projects\BookStore.WebUI\BookStore.UnitTests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\pc_magic\Documents\Visual Studio\Projects\BookStore.WebUI\BookStore.UnitTests\bin\Debug\System.Web.WebPages.dll
+C:\Users\pc_magic\Documents\Visual Studio\Projects\BookStore.WebUI\BookStore.UnitTests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\pc_magic\Documents\Visual Studio\Projects\BookStore.WebUI\BookStore.UnitTests\bin\Debug\BookStore.Domain.pdb
+C:\Users\pc_magic\Documents\Visual Studio\Projects\BookStore.WebUI\BookStore.UnitTests\bin\Debug\BookStore.WebUI.pdb
+C:\Users\pc_magic\Documents\Visual Studio\Projects\BookStore.WebUI\BookStore.UnitTests\bin\Debug\EntityFramework.xml
+C:\Users\pc_magic\Documents\Visual Studio\Projects\BookStore.WebUI\BookStore.UnitTests\bin\Debug\System.Web.Mvc.xml
+C:\Users\pc_magic\Documents\Visual Studio\Projects\BookStore.WebUI\BookStore.UnitTests\bin\Debug\System.Web.Razor.xml
+C:\Users\pc_magic\Documents\Visual Studio\Projects\BookStore.WebUI\BookStore.UnitTests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\pc_magic\Documents\Visual Studio\Projects\BookStore.WebUI\BookStore.UnitTests\bin\Debug\System.Web.WebPages.xml
+C:\Users\pc_magic\Documents\Visual Studio\Projects\BookStore.WebUI\BookStore.UnitTests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\pc_magic\Documents\Visual Studio\Projects\BookStore.WebUI\BookStore.UnitTests\obj\Debug\BookStore.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\pc_magic\Documents\Visual Studio\Projects\BookStore.WebUI\BookStore.UnitTests\obj\Debug\BookStore.UnitTests.dll
+C:\Users\pc_magic\Documents\Visual Studio\Projects\BookStore.WebUI\BookStore.UnitTests\obj\Debug\BookStore.UnitTests.pdb
+C:\Users\PC-Magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.UnitTests\bin\Debug\BookStore.UnitTests.dll
+C:\Users\PC-Magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.UnitTests\bin\Debug\BookStore.UnitTests.pdb
+C:\Users\PC-Magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.UnitTests\bin\Debug\BookStore.Domain.dll
+C:\Users\PC-Magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.UnitTests\bin\Debug\BookStore.WebUI.dll
+C:\Users\PC-Magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.UnitTests\bin\Debug\EntityFramework.dll
+C:\Users\PC-Magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.UnitTests\bin\Debug\System.Web.Mvc.dll
+C:\Users\PC-Magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.UnitTests\bin\Debug\System.Web.WebPages.dll
+C:\Users\PC-Magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.UnitTests\bin\Debug\System.Web.Razor.dll
+C:\Users\PC-Magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.UnitTests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\PC-Magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.UnitTests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\PC-Magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.UnitTests\bin\Debug\BookStore.Domain.pdb
+C:\Users\PC-Magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.UnitTests\bin\Debug\BookStore.WebUI.pdb
+C:\Users\PC-Magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.UnitTests\bin\Debug\EntityFramework.xml
+C:\Users\PC-Magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.UnitTests\bin\Debug\System.Web.Mvc.xml
+C:\Users\PC-Magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.UnitTests\bin\Debug\System.Web.WebPages.xml
+C:\Users\PC-Magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.UnitTests\bin\Debug\System.Web.Razor.xml
+C:\Users\PC-Magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.UnitTests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\PC-Magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.UnitTests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\PC-Magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.UnitTests\obj\Debug\BookStore.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\PC-Magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.UnitTests\obj\Debug\BookStore.UnitTests.dll
+C:\Users\PC-Magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.UnitTests\obj\Debug\BookStore.UnitTests.pdb

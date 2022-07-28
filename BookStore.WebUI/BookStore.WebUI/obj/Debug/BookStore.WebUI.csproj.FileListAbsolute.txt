@@ -1,0 +1,124 @@
+C:\Users\pc_magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\obj\Debug\BookStore.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\pc_magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\BookStore.WebUI.dll.config
+C:\Users\pc_magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\BookStore.WebUI.dll
+C:\Users\pc_magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\BookStore.WebUI.pdb
+C:\Users\pc_magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\BookStore.Domain.dll
+C:\Users\pc_magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\EntityFramework.dll
+C:\Users\pc_magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\pc_magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Helpers.dll
+C:\Users\pc_magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Mvc.dll
+C:\Users\pc_magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Razor.dll
+C:\Users\pc_magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\pc_magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Webpages.dll
+C:\Users\pc_magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\pc_magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\BookStore.Domain.pdb
+C:\Users\pc_magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\EntityFramework.xml
+C:\Users\pc_magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\pc_magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Razor.xml
+C:\Users\pc_magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Webpages.xml
+C:\Users\pc_magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\pc_magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\pc_magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Helpers.xml
+C:\Users\pc_magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Mvc.xml
+C:\Users\pc_magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\obj\Debug\BookStore.WebUI.dll
+C:\Users\pc_magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\obj\Debug\BookStore.WebUI.pdb
+C:\Users\pc_magic\Documents\Visual Studio\Projects\BookStore.WebUI\BookStore.WebUI\bin\BookStore.WebUI.dll.config
+C:\Users\pc_magic\Documents\Visual Studio\Projects\BookStore.WebUI\BookStore.WebUI\bin\BookStore.WebUI.dll
+C:\Users\pc_magic\Documents\Visual Studio\Projects\BookStore.WebUI\BookStore.WebUI\bin\BookStore.WebUI.pdb
+C:\Users\pc_magic\Documents\Visual Studio\Projects\BookStore.WebUI\BookStore.WebUI\bin\BookStore.Domain.dll
+C:\Users\pc_magic\Documents\Visual Studio\Projects\BookStore.WebUI\BookStore.WebUI\bin\EntityFramework.dll
+C:\Users\pc_magic\Documents\Visual Studio\Projects\BookStore.WebUI\BookStore.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\pc_magic\Documents\Visual Studio\Projects\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Helpers.dll
+C:\Users\pc_magic\Documents\Visual Studio\Projects\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Mvc.dll
+C:\Users\pc_magic\Documents\Visual Studio\Projects\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Razor.dll
+C:\Users\pc_magic\Documents\Visual Studio\Projects\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\pc_magic\Documents\Visual Studio\Projects\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Webpages.dll
+C:\Users\pc_magic\Documents\Visual Studio\Projects\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\pc_magic\Documents\Visual Studio\Projects\BookStore.WebUI\BookStore.WebUI\bin\BookStore.Domain.pdb
+C:\Users\pc_magic\Documents\Visual Studio\Projects\BookStore.WebUI\BookStore.WebUI\bin\EntityFramework.xml
+C:\Users\pc_magic\Documents\Visual Studio\Projects\BookStore.WebUI\BookStore.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\pc_magic\Documents\Visual Studio\Projects\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Razor.xml
+C:\Users\pc_magic\Documents\Visual Studio\Projects\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Webpages.xml
+C:\Users\pc_magic\Documents\Visual Studio\Projects\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\pc_magic\Documents\Visual Studio\Projects\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\pc_magic\Documents\Visual Studio\Projects\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Helpers.xml
+C:\Users\pc_magic\Documents\Visual Studio\Projects\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Mvc.xml
+C:\Users\pc_magic\Documents\Visual Studio\Projects\BookStore.WebUI\BookStore.WebUI\obj\Debug\BookStore.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\pc_magic\Documents\Visual Studio\Projects\BookStore.WebUI\BookStore.WebUI\obj\Debug\BookStore.WebUI.dll
+C:\Users\pc_magic\Documents\Visual Studio\Projects\BookStore.WebUI\BookStore.WebUI\obj\Debug\BookStore.WebUI.pdb
+C:\Users\Hamo_Fouad\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\BookStore.WebUI.dll.config
+C:\Users\Hamo_Fouad\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\BookStore.WebUI.dll
+C:\Users\Hamo_Fouad\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\BookStore.WebUI.pdb
+C:\Users\Hamo_Fouad\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\BookStore.Domain.dll
+C:\Users\Hamo_Fouad\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\EntityFramework.dll
+C:\Users\Hamo_Fouad\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Hamo_Fouad\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Helpers.dll
+C:\Users\Hamo_Fouad\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Mvc.dll
+C:\Users\Hamo_Fouad\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Razor.dll
+C:\Users\Hamo_Fouad\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Hamo_Fouad\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Webpages.dll
+C:\Users\Hamo_Fouad\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\Hamo_Fouad\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\BookStore.Domain.pdb
+C:\Users\Hamo_Fouad\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\EntityFramework.xml
+C:\Users\Hamo_Fouad\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Hamo_Fouad\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Razor.xml
+C:\Users\Hamo_Fouad\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Webpages.xml
+C:\Users\Hamo_Fouad\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Hamo_Fouad\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\Hamo_Fouad\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Helpers.xml
+C:\Users\Hamo_Fouad\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Mvc.xml
+C:\Users\Hamo_Fouad\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\obj\Debug\BookStore.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\Hamo_Fouad\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\obj\Debug\BookStore.WebUI.dll
+C:\Users\Hamo_Fouad\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\obj\Debug\BookStore.WebUI.pdb
+C:\Users\PC-Magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\BookStore.WebUI.dll.config
+C:\Users\PC-Magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\BookStore.WebUI.dll
+C:\Users\PC-Magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\BookStore.WebUI.pdb
+C:\Users\PC-Magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\BookStore.Domain.dll
+C:\Users\PC-Magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\EntityFramework.dll
+C:\Users\PC-Magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\PC-Magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Helpers.dll
+C:\Users\PC-Magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Mvc.dll
+C:\Users\PC-Magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Razor.dll
+C:\Users\PC-Magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\PC-Magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Webpages.dll
+C:\Users\PC-Magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\PC-Magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\BookStore.Domain.pdb
+C:\Users\PC-Magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\EntityFramework.xml
+C:\Users\PC-Magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\PC-Magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Razor.xml
+C:\Users\PC-Magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Webpages.xml
+C:\Users\PC-Magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\PC-Magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\PC-Magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Helpers.xml
+C:\Users\PC-Magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Mvc.xml
+C:\Users\PC-Magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\obj\Debug\BookStore.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\PC-Magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\obj\Debug\BookStore.WebUI.dll
+C:\Users\PC-Magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\obj\Debug\BookStore.WebUI.pdb
+C:\Users\PC-Magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\Ninject.dll
+C:\Users\PC-Magic\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\Ninject.xml
+C:\Users\Mohammed Fouad\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\BookStore.WebUI.dll.config
+C:\Users\Mohammed Fouad\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\BookStore.WebUI.dll
+C:\Users\Mohammed Fouad\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\BookStore.WebUI.pdb
+C:\Users\Mohammed Fouad\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\BookStore.Domain.dll
+C:\Users\Mohammed Fouad\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\EntityFramework.dll
+C:\Users\Mohammed Fouad\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Mohammed Fouad\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\Ninject.dll
+C:\Users\Mohammed Fouad\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Helpers.dll
+C:\Users\Mohammed Fouad\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Mvc.dll
+C:\Users\Mohammed Fouad\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Razor.dll
+C:\Users\Mohammed Fouad\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Mohammed Fouad\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Webpages.dll
+C:\Users\Mohammed Fouad\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\Mohammed Fouad\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\BookStore.Domain.pdb
+C:\Users\Mohammed Fouad\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\EntityFramework.xml
+C:\Users\Mohammed Fouad\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Mohammed Fouad\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\Ninject.xml
+C:\Users\Mohammed Fouad\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Razor.xml
+C:\Users\Mohammed Fouad\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Webpages.xml
+C:\Users\Mohammed Fouad\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Mohammed Fouad\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\Mohammed Fouad\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Helpers.xml
+C:\Users\Mohammed Fouad\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Mvc.xml
+C:\Users\Mohammed Fouad\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\obj\Debug\BookStore.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\Mohammed Fouad\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\obj\Debug\BookStore.WebUI.dll
+C:\Users\Mohammed Fouad\Documents\Visual Studio 2013\Projects\BookStore.WebUI\BookStore.WebUI\obj\Debug\BookStore.WebUI.pdb

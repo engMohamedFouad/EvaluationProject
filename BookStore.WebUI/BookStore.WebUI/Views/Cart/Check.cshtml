@@ -1,0 +1,44 @@
+﻿@model BookStore.Domain.Entities.ShoppingDetails
+
+@{
+    ViewBag.Title = "Check";
+}
+    @using (Html.BeginForm())
+    {
+        <div class="form-group" style="margin-left:270px;">
+            <h1>check out now</h1>
+        </div>
+    <div class="form-group" style="margin-left:270px;">
+        <h3>Ship To </h3>
+        </div>
+        <div class="form-group" style="margin-left:270px;">
+            <label>Name</label>@Html.TextBoxFor(x => x.Name, new { @class = "form-control" })
+        </div>
+    <div class="form-group" style="margin-left:270px;">
+        <h3>Address</h3>
+        </div>
+        <div class="form-group" style="margin-left:270px;">
+            <label>line 1</label>@Html.TextBoxFor(x => x.Line1, new { @class = "form-control" })
+        </div>
+        <div class="form-group" style="margin-left:270px;">
+            <label>line 2</label>@Html.TextBoxFor(x => x.Line2, new { @class = "form-control" })
+        </div>
+        <div class="form-group" style="margin-left:270px;">
+            <label>City</label>@Html.TextBoxFor(x => x.City, new { @class = "form-control" })
+        </div>
+        <div class="form-group" style="margin-left:270px;">
+            <label>State</label>@Html.TextBoxFor(x => x.State, new { @class = "form-control" })
+        </div>
+        <div class="form-group" style="margin-left:270px;">
+            <label>Country</label>@Html.TextBoxFor(x => x.Country, new { @class = "form-control" })
+        </div>
+    <div class="form-group" style="margin-left:270px;">
+        <h3>option</h3>
+        </div>
+        <div class="checkbox" style="margin-left:270px;">
+            <label>@Html.EditorFor(x => x.Giftwrap)</label>Gift wrap these books @*any text after the editer that will apear in the right side if i take the text in the left that will  *@
+        </div>
+        <div class="form-group" style="margin-left:270px;">
+            <input class="btn btn-primary" type="submit" value="Complete the information" />
+        </div>
+        }

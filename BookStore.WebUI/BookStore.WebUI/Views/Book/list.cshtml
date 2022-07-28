@@ -1,0 +1,15 @@
+﻿@using BookStore.Domain.Entities
+@model IEnumerable<Books>
+@{
+    ViewBag.Title = "list";
+}
+
+<h2>list</h2>
+@Model.Count()
+<br />
+@foreach(var n in Model)
+{
+    @n.Description
+    <br />
+    <br />
+}

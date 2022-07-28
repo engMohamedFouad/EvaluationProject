@@ -1,0 +1,63 @@
+﻿@model BookStore.WebUI.Models.CartIndexViewModel
+
+@{
+    ViewBag.Title = "Your Cart";
+}
+ @*i want to make button to delete from the cart*@
+ @*that I want to say that each td in the table will effect by the style*@
+<style>
+    #Carttable td {
+    vertical-align:middle;
+    }
+</style>
+
+<table id="Carttable" class="table">
+    
+    <thead>
+          <tr>
+            <th>Item</th>
+            <th>Quality</th>
+            <th class="text-right">Price</th>
+            <th class ="text-right">SubTotal</th>
+          </tr>
+       </thead>
+    <tbody>
+        @foreach (var line in Model.cart.lines)
+        {
+            <tr>
+                <td class="text-center">@line.Book.title</td>
+                <td class="text-center">@line.Quantity</td>
+                <td class="text-right">@line.Book.Price.ToString("c")</td>
+                <td class="text-right">@((line.Quantity * line.Book.Price).ToString("c"))</td>
+                @*//that to take the effect and make the opeeration of the remove that i make the execution for it in the CartController.*@
+                <td>
+                    @using (Html.BeginForm("RemovetoCart", "Cart"))
+                    {
+                        <div class="pull-right">
+                            @Html.Hidden("ISBN", line.Book.ISBN)
+                            @Html.HiddenFor(x => x.ReturnUrl)
+                            <input type="submit" class="btn btn-warning btn-sm" value="remove item" />
+                        </div>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+    <tfoot>
+        <tr>
+            <td colspan="3"class="text-right">ToTal :</td>
+            <td class="text-right">
+                @Model.cart.computeitem().ToString("c"); 
+            </td>
+        </tr>
+    </tfoot>
+</table>
+<div class="text-center">
+    <a class="btn btn-primary" href="@Model.ReturnUrl">
+        Continue Shopping
+    </a>
+    @Html.ActionLink("Checking Now", "Check", "Cart", new { @class = "btn btn-primary" })
+</div>
+
+
+

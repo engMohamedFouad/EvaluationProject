@@ -1,0 +1,13 @@
+﻿@model BookStore.Domain.Entities.Cart
+           <div class="navbar-right">
+               @Html.ActionLink("Chechout","Index","Cart"
+                        , new {returnurl=Request.Url.PathAndQuery },
+                          new {@class="btn btn-default navbar-btn" }
+               )
+           </div>
+<div class="navbar-text navbar-right">
+    <b>Your Cart</b>
+    @Model.lines.Sum(x=>x.Quantity)Books,
+    @Model.computeitem().ToString("c")
+</div>
+

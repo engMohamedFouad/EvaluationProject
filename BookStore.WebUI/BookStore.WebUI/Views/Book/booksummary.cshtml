@@ -1,0 +1,19 @@
+﻿@model BookStore.Domain.Entities.Books
+<div class="well">
+    <h3>
+        <strong> @Model.title</strong>
+        <span class="pull-right label label-primary">@Model.Price.ToString("c")</span>
+    </h3>
+    @*<span class="lead">@Model.Description</span>*@
+    @using (Html.BeginForm("addtocart", "Cart"))
+    {
+        <div class="pull-right">
+            @Html.HiddenFor(b=>b.ISBN)
+            @Html.Hidden("returnURL",Request.Url.PathAndQuery)
+            <input type="submit"class="btn btn-success"value="add to cart" />
+        </div>
+    }
+</div>
+
+
+
