@@ -1,0 +1,110 @@
+c:\users\mohamed fouad\documents\visual studio 2017\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\roslyn\csc.exe
+c:\users\mohamed fouad\documents\visual studio 2017\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\roslyn\csc.exe.config
+c:\users\mohamed fouad\documents\visual studio 2017\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\roslyn\csc.rsp
+c:\users\mohamed fouad\documents\visual studio 2017\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\roslyn\csi.exe
+c:\users\mohamed fouad\documents\visual studio 2017\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\roslyn\csi.rsp
+c:\users\mohamed fouad\documents\visual studio 2017\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\mohamed fouad\documents\visual studio 2017\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\mohamed fouad\documents\visual studio 2017\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\mohamed fouad\documents\visual studio 2017\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\mohamed fouad\documents\visual studio 2017\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\mohamed fouad\documents\visual studio 2017\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\mohamed fouad\documents\visual studio 2017\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\mohamed fouad\documents\visual studio 2017\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\mohamed fouad\documents\visual studio 2017\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\mohamed fouad\documents\visual studio 2017\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\mohamed fouad\documents\visual studio 2017\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\roslyn\System.AppContext.dll
+c:\users\mohamed fouad\documents\visual studio 2017\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\roslyn\System.Collections.Immutable.dll
+c:\users\mohamed fouad\documents\visual studio 2017\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\mohamed fouad\documents\visual studio 2017\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\roslyn\System.IO.FileSystem.dll
+c:\users\mohamed fouad\documents\visual studio 2017\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\mohamed fouad\documents\visual studio 2017\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\mohamed fouad\documents\visual studio 2017\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\roslyn\vbc.exe
+c:\users\mohamed fouad\documents\visual studio 2017\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\roslyn\vbc.exe.config
+c:\users\mohamed fouad\documents\visual studio 2017\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\roslyn\vbc.rsp
+c:\users\mohamed fouad\documents\visual studio 2017\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\roslyn\VBCSCompiler.exe
+c:\users\mohamed fouad\documents\visual studio 2017\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\roslyn\VBCSCompiler.exe.config
+c:\users\mohamed fouad\documents\visual studio 2017\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\SchoolPerfectProject.dll.config
+c:\users\mohamed fouad\documents\visual studio 2017\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\SchoolPerfectProject.dll
+c:\users\mohamed fouad\documents\visual studio 2017\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\SchoolPerfectProject.pdb
+c:\users\mohamed fouad\documents\visual studio 2017\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\EntityFramework.dll
+c:\users\mohamed fouad\documents\visual studio 2017\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\EntityFramework.SqlServer.dll
+c:\users\mohamed fouad\documents\visual studio 2017\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\mohamed fouad\documents\visual studio 2017\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\Microsoft.Web.Infrastructure.dll
+c:\users\mohamed fouad\documents\visual studio 2017\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\System.Web.Helpers.dll
+c:\users\mohamed fouad\documents\visual studio 2017\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\System.Web.Mvc.dll
+c:\users\mohamed fouad\documents\visual studio 2017\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\System.Web.Razor.dll
+c:\users\mohamed fouad\documents\visual studio 2017\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\System.Web.Webpages.Deployment.dll
+c:\users\mohamed fouad\documents\visual studio 2017\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\System.Web.Webpages.dll
+c:\users\mohamed fouad\documents\visual studio 2017\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\System.Web.Webpages.Razor.dll
+c:\users\mohamed fouad\documents\visual studio 2017\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\EntityFramework.xml
+c:\users\mohamed fouad\documents\visual studio 2017\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\EntityFramework.SqlServer.xml
+c:\users\mohamed fouad\documents\visual studio 2017\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\mohamed fouad\documents\visual studio 2017\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\System.Web.Razor.xml
+c:\users\mohamed fouad\documents\visual studio 2017\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\System.Web.Webpages.xml
+c:\users\mohamed fouad\documents\visual studio 2017\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\System.Web.Webpages.Deployment.xml
+c:\users\mohamed fouad\documents\visual studio 2017\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\System.Web.Webpages.Razor.xml
+c:\users\mohamed fouad\documents\visual studio 2017\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\System.Web.Helpers.xml
+c:\users\mohamed fouad\documents\visual studio 2017\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\System.Web.Mvc.xml
+c:\users\mohamed fouad\documents\visual studio 2017\Projects\SchoolPerfectProject\SchoolPerfectProject\obj\Debug\SchoolPerfectProject.dll
+c:\users\mohamed fouad\documents\visual studio 2017\Projects\SchoolPerfectProject\SchoolPerfectProject\obj\Debug\SchoolPerfectProject.pdb
+E:\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\roslyn\csc.exe
+E:\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\roslyn\csc.exe.config
+E:\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\roslyn\csc.rsp
+E:\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\roslyn\csi.exe
+E:\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\roslyn\csi.rsp
+E:\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\roslyn\System.AppContext.dll
+E:\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\roslyn\System.Collections.Immutable.dll
+E:\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\roslyn\System.IO.FileSystem.dll
+E:\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\roslyn\System.Reflection.Metadata.dll
+E:\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\roslyn\vbc.exe
+E:\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\roslyn\vbc.exe.config
+E:\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\roslyn\vbc.rsp
+E:\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\roslyn\VBCSCompiler.exe
+E:\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\roslyn\VBCSCompiler.exe.config
+E:\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\SchoolPerfectProject.dll.config
+E:\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\SchoolPerfectProject.dll
+E:\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\SchoolPerfectProject.pdb
+E:\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\EntityFramework.dll
+E:\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\EntityFramework.SqlServer.dll
+E:\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\Microsoft.Web.Infrastructure.dll
+E:\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\PagedList.dll
+E:\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\PagedList.Mvc.dll
+E:\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\System.Web.Helpers.dll
+E:\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\System.Web.Mvc.dll
+E:\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\System.Web.Razor.dll
+E:\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\System.Web.Webpages.Deployment.dll
+E:\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\System.Web.Webpages.dll
+E:\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\System.Web.Webpages.Razor.dll
+E:\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\EntityFramework.xml
+E:\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\EntityFramework.SqlServer.xml
+E:\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\PagedList.xml
+E:\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\PagedList.Mvc.xml
+E:\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\System.Web.Razor.xml
+E:\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\System.Web.Webpages.xml
+E:\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\System.Web.Webpages.Deployment.xml
+E:\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\System.Web.Webpages.Razor.xml
+E:\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\System.Web.Helpers.xml
+E:\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\System.Web.Mvc.xml
+E:\Projects\SchoolPerfectProject\SchoolPerfectProject\obj\Debug\SchoolPerfectProject.csprojResolveAssemblyReference.cache
+E:\Projects\SchoolPerfectProject\SchoolPerfectProject\obj\Debug\SchoolPerfectProject.dll
+E:\Projects\SchoolPerfectProject\SchoolPerfectProject\obj\Debug\SchoolPerfectProject.pdb
+C:\Users\Mohamed Fouad\Documents\Visual Studio 2017\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\PagedList.dll
+C:\Users\Mohamed Fouad\Documents\Visual Studio 2017\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\PagedList.Mvc.dll
+C:\Users\Mohamed Fouad\Documents\Visual Studio 2017\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\PagedList.xml
+C:\Users\Mohamed Fouad\Documents\Visual Studio 2017\Projects\SchoolPerfectProject\SchoolPerfectProject\bin\PagedList.Mvc.xml
+C:\Users\Mohamed Fouad\Documents\Visual Studio 2017\Projects\SchoolPerfectProject\SchoolPerfectProject\obj\Debug\SchoolPerfectProject.csprojResolveAssemblyReference.cache

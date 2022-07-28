@@ -1,0 +1,68 @@
+﻿@using PagedList;
+@using PagedList.Mvc;
+@model IPagedList<SchoolPerfectProject.App_Data.Student>
+@{
+    ViewBag.Title = "Index";
+}
+<style>
+    td{
+        font-size:large;
+        width:300px;
+        height:80px;
+    }
+    tr #d{
+        font-size:x-large;
+        color:red;
+    }
+</style>
+  
+<div style="position:absolute;top:70px;">
+    <h2>@Html.ActionLink("Create New Account", "Registration", "Student", new { @class = "btn btn-success" })</h2>
+    @*for research*@
+    @using (Html.BeginForm("Index", "Student", FormMethod.Post))
+    { 
+    <div>
+        <input id="Submit1" type="submit" value="Search" />  <input type="text" name="Search" placeholder="Student name">
+    </div>
+    }
+    <div class="container">
+        <table class="table-striped">
+            <thead>
+                <tr>
+                    <td id="d">UserName</td>
+                    <td id="d">Email</td>
+                    <td id="d">Phone</td>
+                    <td id="d">Password</td>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var i in Model)
+    {
+                    <tr>
+                        <td>
+                            @i.SName
+                        </td>
+                        <td>
+                            @i.SEmail
+                        </td>
+                        <td>
+                            @i.Phone
+                        </td>
+                        <td>
+                            @i.Password
+                        </td>
+                        <td><h2>@Html.ActionLink("Update", "Update", "Student", new { id = @i.SID }, new { @class = "btn btn-sucess" })</h2></td>
+                        <td><h2>@Html.ActionLink("Delete", "Delete", "Student", new { id = @i.SID}, new { @class = "btn btn-warning" })</h2></td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+        <br /><br />
+        <div style="position:absolute;right:0px;">
+            @Html.PagedListPager(Model,page=>Url.Action("Index",new {page }))
+        </div>
+    </div>
+</div>
+
+
+

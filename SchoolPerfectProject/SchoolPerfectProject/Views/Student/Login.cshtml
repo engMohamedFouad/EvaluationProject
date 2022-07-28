@@ -1,0 +1,43 @@
+﻿@model SchoolPerfectProject.App_Data.Student
+
+@{
+    ViewBag.Title = "Login";
+}
+
+<div class="container" style="position:absolute;top:150px;">
+    @using (Html.BeginForm("Login", "Student", FormMethod.Post))
+    {
+        
+        <table>
+            <tr>
+                <td><label style="font-size:large;">UserName</label></td>
+                <td>
+                    <div class="form-group">
+                        @Html.EditorFor(model => model.SName, new { htmlAttributes = new { @class = "form-control", style = "width:400px;" } })
+                        @Html.ValidationMessageFor(model => model.SName, "", new { @class = "text-danger" })
+                    </div>
+                </td>
+            </tr>
+
+            <tr>
+                <td><label style="font-size:large;">Password</label></td>
+                <td>
+                    <div class="form-group">
+                        @Html.PasswordFor(model => model.Password, new { @class = "form-control", style = "width:400px;" })
+                        @Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-danger" })
+                    </div>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <div class="form-group" style="position:absolute;width:400px;">
+                        <input style="font-size:large;" class="btn btn-success" type="submit" value="Login" />
+
+                    </div>
+                </td>
+            </tr>
+        </table>
+    }
+</div>
+

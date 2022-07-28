@@ -1,0 +1,52 @@
+﻿@model SchoolPerfectProject.App_Data.Student
+
+@{
+    ViewBag.Title = "Detail";
+}
+<div class="pull-right">
+    <h4 >@ViewData["o"] اهلآ</h4>
+    <div style="position:absolute;top:55px;right:150px;">
+        @Html.ActionLink("Logout", "Logout", "Student", new { @class = "btn btn-danger" })
+    </div>
+    </div>
+<div>
+    <h4>Student</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.SName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SEmail)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SEmail)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Phone)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Phone)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Password)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Password)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("All", "Index", "Student") |
+    @Html.ActionLink("back to Login", "Login", "Student", new { id = @Model.SID }, new { @class = "btn btn-warning" }) 
+</p>

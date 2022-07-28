@@ -1,0 +1,107 @@
+﻿@model SchoolPerfectProject.App_Data.Student
+
+@{
+    ViewBag.Title = "Update";
+}
+
+    <div class="container" style="position:absolute;top:150px;">
+       @using (Html.BeginForm("Update", "Student", FormMethod.Post))
+       {
+           @Html.AntiForgeryToken()
+        <div class="form-horizontal">
+            <hr />
+            @Html.ValidationSummary(true,"",new  { @Class="text-danger"})
+            @Html.HiddenFor(model=>model.SID)
+            <table>
+                <tr>
+                    <td><label style="font-size:large;">UserName&nbsp;&nbsp;&nbsp;&nbsp;</label></td>
+                    <td>
+                        <div class="form-group">
+                            @Html.EditorFor(model => model.SName, new { htmlAttributes = new { @class = "form-control", style = "width:400px;" } })
+                            @Html.ValidationMessageFor(model => model.SName, "", new { @class = "text-danger" })
+                        </div>
+                    </td>
+                </tr>
+
+
+                <tr>
+                    <td><label style="font-size:large;">Email&nbsp;&nbsp;&nbsp;&nbsp;</label></td>
+                    <td>
+                        <div class="form-group">
+                            @Html.EditorFor(model => model.SEmail, new { htmlAttributes = new { @class = "form-control", style = "width:400px;" } })
+                            @Html.ValidationMessageFor(model => model.SEmail, "", new { @class = "text-danger" })
+                        </div>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td><label style="font-size:large;">Phone&nbsp;&nbsp;&nbsp;&nbsp;</label></td>
+                    <td>
+                        <div class="form-group">
+                            @Html.EditorFor(model => model.Phone, new { htmlAttributes = new { @class = "form-control", style = "width:400px;" } })
+                            @Html.ValidationMessageFor(model => model.Phone, "", new { @class = "text-danger" })
+                        </div>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td><label style="font-size:large;">Password&nbsp;&nbsp;&nbsp;&nbsp;</label></td>
+                    <td>
+                        <div class="form-group">
+                            @Html.EditorFor(model => model.Password, new { htmlAttributes = new { @class = "form-control", style = "width:400px;" } })
+                            @Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-danger" })
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td><label style="font-size:large;">Faculty&nbsp;&nbsp;&nbsp;&nbsp;</label></td>
+                    <td>
+                        <div class="form-group">
+                            @if (ViewBag.faculty != null)
+                            {
+                                @Html.DropDownListFor(m => m.FID, ViewBag.faculty as SelectList, "Select Faculty", new { @Class = "form-control" })
+                            }
+                        </div>
+                    </td>
+                </tr>
+
+
+                <tr>
+                    <td><label style="font-size:large;">Department&nbsp;&nbsp;&nbsp;&nbsp;</label></td>
+                    <td>
+                        <div class="form-group">
+                            @Html.DropDownListFor(m => m.DID, ViewBag.Department as SelectList, new { @Class = "form-control" })
+                        </div>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>
+                        <div class="form-group" style="position:absolute;width:400px;">
+                            <input style="font-size:large;" class="btn btn-success" type="submit" value="Create" />
+                        </div>
+                    </td>
+                    <td>
+                        <div class="form-group" style="position:absolute;width:400px;">
+                            <input style="font-size:large;" class="btn btn-success" type="reset" value="Clear" />
+                        </div>
+                    </td>
+                </tr>
+            </table>
+        </div>
+       }
+    </div>
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $("#FID").change(function () {
+                $.get("/Student/GetDepartmentList", { FID: $("#FID").val() }, function (data) {
+                    $("#DID").empty();
+                    $.each(data, function (index, row) {
+                        $("#DID").append("<option value='" + row.DID + "'>" + row.DName + " </option>")
+                    });
+                });
+            })
+        });
+    </script>
+
